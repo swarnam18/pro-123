@@ -1,0 +1,33 @@
+#heading
+  {
+    font-size:50px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(1, 1, 1);
+    font-family: 'Allison';
+    color: blue;
+  }
+  .note
+  {
+    font-size:30px;
+    color: rgb(4, 0, 255);
+    font-family: 'Aguafina Script';
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: rgb(0, 225, 255);
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(17, 0, 255);
+    line-height: 3;
+    text-align: center;
+ }
+  canvas 
+  {
+    border:5px solid rgb(0, 0, 0);
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(255, 0, 115);
+  }
+  body{
+    background:linear-gradient(to top right,#341f97,#D980FA,#00d2d3,#ff9ff3,#f368e0,#18dcff,#FDA7DF,#341f97);
+  }
